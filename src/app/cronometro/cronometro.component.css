@@ -1,0 +1,25 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.play{
+    background-color: rgb(230, 13, 201);
+    color: white;
+    height: 40px;
+    width: 45px;
+}
+.record{
+    background-color: rgb(3, 123, 228);
+    color: white;
+}
+.pause{
+    background-color: rgb(28, 134, 24);
+    color: white;
+}
+.volver{
+    margin-top: 90px;
+}

@@ -1,0 +1,14 @@
+.tool{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 40px;
+    background-color: rgb(163, 163, 236);
+}
+div{
+    margin-right: 30px;
+}
+a{
+    text-decoration: none;
+}
